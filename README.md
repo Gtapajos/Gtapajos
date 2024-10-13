@@ -3,7 +3,7 @@
 ![Banner para linkedin geométrico moderno verde e azul (1)](https://github.com/Gtapajos/Gtapajos/assets/90109601/89d61f20-9bf4-4705-bded-2de0ea3aa00e)
 
 ### About Me
-Full Stack Developer with two years of experience and currently pursuing a degree in Information Systems at Amazonas State University. Experience in both front-end and back-end development, as well as machine learning.
+Full Stack Developer with three years of experience and currently pursuing a degree in Information Systems at Amazonas State University. Experience in both front-end and back-end development, as well as machine learning.
 
 <br>
 
